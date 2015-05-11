@@ -1,0 +1,6 @@
+-lib abe
+-lib hxnodejs
+-lib thx.promise
+-cp src
+-main Main
+-js bin/server.js
